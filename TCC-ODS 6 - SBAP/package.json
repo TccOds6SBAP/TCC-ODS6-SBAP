@@ -1,0 +1,17 @@
+{
+  "name": "tcc-ods-6---sbap",
+  "version": "1.0.0",
+  "description": "Tcc ods 6",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "Node",
+    "Express",
+    "Express-validator"
+  ],
+  "author": "Gustavo",
+  "license": "ISC"
+}
